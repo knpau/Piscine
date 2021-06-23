@@ -1,12 +1,10 @@
-# 42 Seoul Piscine
+# 42KL
 
-2020.01.20 ~ 2020.02.14 기간 내, C Piscine 과정의 모든 프로젝트
+All projects in the C Piscine course within the period of 2021.06.22 ~ 2021.06.23
 
-(채점 서버에서 전부 통과한 코드이지만 ~팀과제 제외~, 비효율적인 부분이 다소 존재할 수 있습니다.)  
+(The code passed through the scoring server, but there may be some inefficiencies, except for team assignments.)
 
 ## Shell00
-
-[ko.subject.pdf](Shell00/ko.subject.pdf)
 
 [en.subject.pdf](Shell00/en.subject.pdf)
 
@@ -32,8 +30,6 @@
 
 ## Shell01
 
-[ko.subject.pdf](Shell01/ko.subject.pdf)
-
 [en.subject.pdf](Shell01/en.subject.pdf)
 
 [Exercise 01 : print_groups](Shell01/ex01)
@@ -53,8 +49,6 @@
 [Exercise 08 : add_chelou](Shell01/ex08)
 
 ## C00
-
-[ko.subject.pdf](C00/ko.subject.pdf)
 
 [en.subject.pdf](C00/en.subject.pdf)
 
@@ -78,8 +72,6 @@
 
 ## C01
 
-[ko.subject.pdf](C01/ko.subject.pdf)
-
 [en.subject.pdf](C01/en.subject.pdf)
 
 [Exercise 00 : ft_ft](C01/ex00)
@@ -101,8 +93,6 @@
 [Exercise 08 : ft_sort_int_tab](C01/ex08)
 
 ## C02
-
-[ko.subject.pdf](C02/ko.subject.pdf)
 
 [en.subject.pdf](C02/en.subject.pdf)
 
@@ -134,8 +124,6 @@
 
 ## C03
 
-[ko.subject.pdf](C03/ko.subject.pdf)
-
 [en.subject.pdf](C03/en.subject.pdf)
 
 [Exercise 00 : ft_strcmp](C03/ex00)
@@ -153,8 +141,6 @@
 
 ## C04
 
-[ko.subject.pdf](C04/ko.subject.pdf)
-
 [en.subject.pdf](C04/en.subject.pdf)
 
 [Exercise 00 : ft_strlen](C04/ex00)
@@ -170,8 +156,6 @@
 [Exercise 05 : ft_atoi_base](C04/ex05)
 
 ## C05
-
-[ko.subject.pdf](C05/ko.subject.pdf)
 
 [en.subject.pdf](C05/en.subject.pdf)
 
@@ -195,8 +179,6 @@
 
 ## C06
 
-[ko.subject.pdf](C06/ko.subject.pdf)
-
 [en.subject.pdf](C06/en.subject.pdf)
 
 [Exercise 00 : ft_print_program_name](C06/ex00)
@@ -210,8 +192,6 @@
 
 
 ## C07
-
-[ko.subject.pdf](C07/ko.subject.pdf)
 
 [en.subject.pdf](C07/en.subject.pdf)
 
@@ -230,8 +210,6 @@
 
 ## C08
 
-[ko.subject.pdf](C08/ko.subject.pdf)
-
 [en.subject.pdf](C08/en.subject.pdf)
 
 [Exercise 00 : ft.h](C08/ex00)
@@ -249,8 +227,6 @@
 
 ## C09
 
-[ko.subject.pdf](C09/ko.subject.pdf)
-
 [en.subject.pdf](C09/en.subject.pdf)
 
 [Exercise 00 : libft](C09/ex00)
@@ -260,8 +236,6 @@
 [Exercise 02 : ft_split](C09/ex02)
 
 ## C10
-
-[ko.subject.pdf](C10/ko.subject.pdf)
 
 [en.subject.pdf](C10/en.subject.pdf)
 
@@ -275,8 +249,6 @@
 
 
 ## C11
-
-[ko.subject.pdf](C11/ko.subject.pdf)
 
 [en.subject.pdf](C11/en.subject.pdf)
 
@@ -298,8 +270,6 @@
 
 
 ## C12
-
-[ko.subject.pdf](C12/ko.subject.pdf)
 
 [en.subject.pdf](C12/en.subject.pdf)
 
@@ -341,8 +311,6 @@
 
 
 ## C13
-
-[ko.subject.pdf](C13/ko.subject.pdf)
 
 [en.subject.pdf](C13/en.subject.pdf)
 
